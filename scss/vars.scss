@@ -1,0 +1,31 @@
+
+$bgcolor:   #fff;
+$color:     #000;
+
+$colorGrey: #9fa3a7;
+$colorBlack: #292929;
+
+$widthwr: 1440px;
+$width:     940px;
+
+$fontMonts:  'Montserrat-Regular', OpenSanc;
+$fontMontsBold: 'Montserrat-Bold', OpenSanc;
+$fontArvo:  'Arvo-Regular', OpenSanc;
+$fontArvoBold: 'Arvo-Bold', OpenSanc;
+
+@font-face {
+    font-family: 'Montserrat-Bold';
+    src: url(../fonts/Montserrat-Bold.ttf);  
+   }
+@font-face {
+    font-family: 'Montserrat-Regular';
+    src: url(../fonts/Montserrat-Regular.ttf);  
+   }
+@font-face {
+    font-family: 'Arvo-Bold';
+    src: url(../fonts/Arvo-Bold.ttf);  
+   }
+@font-face {
+    font-family: 'Arvo-Regular';
+    src: url(../fonts/Arvo-Regular.ttf);  
+   }
